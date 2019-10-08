@@ -20,3 +20,5 @@ This repo is here for the purpose of learning and practicing git.
 
 Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore)
 
+All the FEs who participated have made a folder with their name.
+
